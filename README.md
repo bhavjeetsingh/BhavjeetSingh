@@ -11,8 +11,6 @@ Welcome to my GitHub! I'm passionate about building **intelligent AI agents**, *
 
 ## 🛠️ Technical Arsenal
 
-## 🛠️ Technical Arsenal
-
 ### 🤖 LLMOps & Generative AI
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
